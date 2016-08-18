@@ -1,4 +1,7 @@
 # Appium-Workshop-Android
+##Test Case
+
+自动化安装微信，登陆，在置顶的对话框中输入“Appium Test” 并验证
 
 ##环境配置
 ###Genymotion Settings
