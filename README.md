@@ -29,7 +29,7 @@ Platform version: 5.0.1 Lollipop (API Level 20)
 Advance Andorid SDK path
 Set app path
 
-## 注：跑脚本时需要关闭Inspector
+## 跑脚本前需要打开Genymotion虚拟机和Appium GUI并Lanuch，关闭Inspector
 
 
 
